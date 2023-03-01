@@ -1,0 +1,4 @@
+[submodule "ingadhoc/multi-store"]
+	path = ingadhoc/multi-store
+	url = git@github.com:ingadhoc/multi-store.git
+	branch = 15.0
