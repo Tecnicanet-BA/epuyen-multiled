@@ -2,3 +2,8 @@
 	path = ingadhoc/multi-store
 	url = git@github.com:ingadhoc/multi-store.git
 	branch = 15.0
+
+[submodule "ingadhoc/odoo-argentina"]
+	path = ingadhoc/odoo-argentina
+	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 15.0
